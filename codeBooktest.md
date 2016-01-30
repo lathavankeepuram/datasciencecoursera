@@ -3,7 +3,7 @@
 
 ## This is secondary header (secondary font)
 
-# Tertiary header (tertiary font)
+### Tertiary header (tertiary font)
 
 No header line (regular)
 
